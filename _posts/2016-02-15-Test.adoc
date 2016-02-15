@@ -1,5 +1,3 @@
 = Test
 == Another Test
-:published_at: 2016-02-15
-:hp-tags: HubPress, Blog, Open Source,
-:hp-alt-title: Test
+abcdefg
